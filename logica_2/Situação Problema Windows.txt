@@ -1,0 +1,105 @@
+1)
+Primeiro o Pedro deve abrir o explorador de arquivos e
+acessar a área de trabalho.
+Criar uma pasta com o nome “Projetos “.
+Selecionar todos os arquivos e recortar.
+Colar na pasta Projetos.
+
+2)
+Para resolver esse problema Maria deve verificar:
+Se o computador e a impressora estão conectados na
+mesma rede de Wifi.
+Se os cabos usb estão devidamente conec/tados.
+Verificar a fila de impressão, se há documentos pendentes.
+Procure na lista de serviços um chamado Spooler de
+Impressão e clique em reiniciar.
+
+3)
+Pedro deve abrir o gerenciador de tarefas e acessar a aba
+de processos.
+Localize o programa travado e finaliza a tarefa.
+
+4)
+Manter seu programa do Windows é essencial para haver
+correções de bugs, melhoria e falhas e promover
+segurança.
+Ana deve acessar as configurações, entrar em atualizações
+e segurança.
+
+Abrir Windows Update e instalar.
+Depois reinicie e estará atualizado.
+5)
+Antes de continuar abrir, Lucas deve verificar se o
+arquivo é seguro.
+Usar o Windows Defender para escanear o arquivo.
+Se for identificado como ameaça, o Defender pode colocá-
+lo em quarentena ou excluí-lo.
+Por fim é necessário, evitar baixar arquivos de sites
+desconhecidos.
+6)
+Carla pode usar o Liberador de Espaço em Disco.
+Remover arquivos temporários.
+Esvaziar lixeira.
+Desinstalar programas desnecessários.
+
+7)
+Rafael pode reiniciar seu computador e o roteador.
+Conectar o cabo de rede diretamente no computador.
+Conferir se algo está interferindo, exemplo: modo avião.
+
+8)
+O recurso do Windows que permite esse comando é o
+Gerenciamento de Contas de Usuário.
+Acesse Gerenciamento de Contas de Usuário.
+Vá para Contas, Família e outros usuários.
+
+Clique em Adicionar outra pessoa a este PC.
+Escolha a opção não tenho as informações de login desta
+pessoa e, em seguida, Adicionar um usuário sem uma
+conta da Microsoft.
+Digite um nome de usuário e uma senha (se necessário).
+Clique em Avançar e finalize a criação.
+
+9)
+Fernanda pode acessar a lixeira e restaurar seu arquivo.
+Caso o backup esteja ligada Fernanda pode entrar em
+histórico de arquivo.
+
+10)
+Para que o novo navegador abra links por padrão.
+É necessário acessar em configurações, aplicativos,
+aplicativo padrão.
+Clicar em Navegador da Web e selecionar o navegador
+desejado.
+
+11)
+Isso pode ser corrigido em configurações, sistema, tela.
+Ao entrar em resolução de tela, escolha a opção que o
+Windows recomenda.
+
+12)
+Para facilitar a leitura é necessário acessar as
+configurações, acessibilidade, tamanho de texto.
+
+E assim ativar a lupa do Windows que ajudará a ampliar a
+tela.
+
+13)
+Ele pode restaurá-lo para um estado anterior acessando o
+painel do controle, recuperação, e abra a restauração do
+sistema.
+Escolher um ponto de restauração anterior à instalação do
+programa problemático.
+Seguir os passos e concluir.
+
+14)
+Clicar com o botão direito na área de trabalho, selecionar
+Novo, Atalho.
+Digitar winword.exe e clicar em Avançar.
+Nomear o atalho como &quot;Microsoft Word&quot; e finalizar.
+
+15)
+Abrir o gerenciador de tarefas.
+Ir até a aba Inicializar.
+Selecionar os programas desnecessários e clicar em
+Desabilitar.
